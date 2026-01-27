@@ -1,16 +1,16 @@
-## Hi there 👋
+## Open source projects I've contributed to
 
-<!--
-**agolajko/agolajko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Merged
 
-Here are some ideas to get you started:
+Torch AO
+- https://github.com/pytorch/ao/pull/3306 FP8 blockwise quantization benchmark
+- https://github.com/pytorch/ao/pull/3342 replaced torch._scaled_mm with torch.nn.functional.scaled_mm
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+SkyRL
+- https://github.com/NovaSky-AI/SkyRL/pull/758 Benchmarking and optimising setting logprobs tracking to default 
+- https://github.com/NovaSky-AI/SkyRL/pull/691 benchmarking and fusing kernels 
+- https://github.com/NovaSky-AI/SkyRL/pull/680 top_k sampling 
+
+### In progress
+
+- https://github.com/NovaSky-AI/SkyRL/pull/880 Cuda tiling for expert parallelism
