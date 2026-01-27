@@ -1,4 +1,4 @@
-## Open source projects I've contributed to
+## Open source AI infra projects I've contributed to
 
 ### Merged
 
