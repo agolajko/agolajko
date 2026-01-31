@@ -14,3 +14,4 @@
 ### In progress
 
 - https://github.com/NovaSky-AI/SkyRL/pull/880 Cuda tiling for expert parallelism
+- https://github.com/sgl-project/sglang/pull/17903 dp routing for heterogeneous p/d
